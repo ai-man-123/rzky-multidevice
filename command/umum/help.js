@@ -106,8 +106,8 @@ ${
 					gifPlayback: true,
 					footer: config.namebot + " • " + config.ownername,
 					templateButtons: [
-						{ urlButton: { displayText: "Shortlink", url: "https://sl.rzkyfdlh.tech" } },
-						{ urlButton: { displayText: "Downloader", url: "https://down.rzkyfdlh.tech" } },
+						{ urlButton: { displayText: "Web Owner", url: "lynxaiman.my.id" } },
+						{ urlButton: { displayText: "Downloader", url: "https://taupe-codfish-cape.cyclic.app/" } },
 						{ quickReplyButton: { displayText: "Script Bot📑", id: "#script" } },
 						{ quickReplyButton: { displayText: "Changelog📋", id: "#changelog" } },
 						{ quickReplyButton: { displayText: "Dashboard📊", id: "#db" } },
